@@ -1,2 +1,4 @@
 .env
 .myenv
+.ipynb_checkpoints/
+huggingface_models
